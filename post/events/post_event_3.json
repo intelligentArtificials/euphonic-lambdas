@@ -20,6 +20,7 @@
     },
     "Parameters": {
       "userId": "2",
+      "userType": "psaChannel",
       "text": "Berlin residents may order mask deliveries by dialing 0123",
       "somethingElse": "not of interest"
     }

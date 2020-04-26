@@ -20,6 +20,7 @@
     },
     "Parameters": {
       "userId": "57",
+      "userType": "human",
       "text": "I'm finding it hard to get hold of masks",
       "tags": "masks",
       "somethingElse": "not of interest"
